@@ -25,11 +25,11 @@
 Corben Roszak
 he/him
 
-[Email Address] (corbenroszak@gmail.com)
+[Email Address](corbenroszak@gmail.com)
 
-[Website] (https://www.roszakc.me)
+[Website](https://www.roszakc.me)
 
-[Random Web] (https://theuselessweb.com/)
+[Random Web](https://theuselessweb.com/)
 
 <!--
 **roszakc/roszakc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
