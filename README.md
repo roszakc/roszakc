@@ -2,23 +2,6 @@
 
 <h2 align="center"> My name is Corben and I am a software designer </h2>
 
-
-#### 🔭 I’m currently working on:
-- Finding a full time job
-- Making a website 
-- Researching software design
-- Creating inclusive WWU Discord server
-
-#### 🌱 I’m currently learning:
-- Docker 
-- Computer Hardware
-- How to skateboard downhill
-- HTML (obviously needed)
-
-#### 💬 Ask me about:
-- Object Oriented Design
-- Math
-
 ### 📫 How to reach me:
 Corben Roszak <em>he/him</em>
 
