@@ -1,28 +1,19 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-<h2 align="center"> My name is Corben and I am a software designer </h2>
+<h2 align="center"> My name is Corben and I am a software designer 
+  <br><br>
+</h2>
 
 ### 📫 How to reach me:
 Corben Roszak <em>he/him</em>
 
-[![Website][web-shield]][web-url]
 
-[![Email][email-shield]][email-url]
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Website][web-shield]][web-url] &emsp;&emsp;&emsp;&emsp; [![Email][email-shield]][email-url] &emsp;&emsp;&emsp;&emsp; [![LinkedIn][linkedin-shield]][linkedin-url]
+
+<br>
 
 [Random Web](https://theuselessweb.com/)
-
-<!--
-**roszakc/roszakc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 
-- ⚡ Fun fact: ...
--->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/corben-roszak
