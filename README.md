@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/roszakc
+[linkedin-url]: https://linkedin.com/in/corben-roszak
 [email-shield]: https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=Mail.Ru
 [email-url]: mailto:corbenroszak@gmail.com
 [web-shield]: https://img.shields.io/badge/-Website-red?style=for-the-badge&logo=Namecheap
